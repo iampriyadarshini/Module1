@@ -130,7 +130,8 @@ print(men_stepped_on_the_moon)
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/ecba66dc-7717-4dca-8d53-fce2dd3038fe)
+![image](https://github.com/user-attachments/assets/4b6b522c-462c-4979-9358-f6dc2a1b0f8e)
+
 
 
 ## Result
