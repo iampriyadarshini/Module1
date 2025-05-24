@@ -17,7 +17,7 @@ print(men_stepped_on_the_moon)
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/ecba66dc-7717-4dca-8d53-fce2dd3038fe)
+![image](https://github.com/user-attachments/assets/8debac37-be1c-4288-a647-0542bcb43610)
 
 
 ## Result
